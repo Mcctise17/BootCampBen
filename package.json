@@ -1,0 +1,28 @@
+{
+  "name": "bootcampben",
+  "version": "1.0.0",
+  "description": "My first web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mcctise17/BootCampBen.git"
+  },
+  "keywords": [
+    "test",
+    "web",
+    "first",
+    "project"
+  ],
+  "author": "Mattise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mcctise17/BootCampBen/issues"
+  },
+  "homepage": "https://github.com/Mcctise17/BootCampBen#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
