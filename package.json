@@ -4,7 +4,7 @@
   "description": "My first web project",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "homepage": "https://github.com/Mcctise17/BootCampBen#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
   }
 }
